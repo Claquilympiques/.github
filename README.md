@@ -1,1 +1,2 @@
-# .github
+# Claquilympiques
+Regroupement des repositories utiles.
